@@ -134,11 +134,6 @@ np.argmax(predictions_single[0])
 # In[6]:
 
 
-a=10
-b=20
-c=a+b
-print(c)
-
 
 # In[ ]:
 
